@@ -1,0 +1,4 @@
+ename,ssn,bdate,address,dnumber,dname,dmgrssn
+
+ssn -> ename,bdate,address,dnumber
+dnumber -> dname,dmgrssn

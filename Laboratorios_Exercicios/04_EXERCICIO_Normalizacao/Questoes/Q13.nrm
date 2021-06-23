@@ -1,0 +1,6 @@
+propertyid,countyname,lotno,area,price,taxrate
+
+propertyid -> countyname,lotno,area,price,taxrate
+countyname,lotno -> propertyid,area,price,taxrate
+countyname -> taxrate
+area -> price
