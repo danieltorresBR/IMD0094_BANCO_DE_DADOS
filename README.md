@@ -1,2 +1,2 @@
-# PROJETOS_RESIDENCIA_TI_IMD
-Projetos e Materiais da Residência em TI do IMD/TCE
+# IMD0094 - BANCO DE DADOS
+Projetos e Materiais da Residência em TI do IMD/TCE - Disciplina Banco de Dados
