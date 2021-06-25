@@ -1,2 +1,3 @@
 Matricula,Periodo,Turma,Data_Nascimento,Grupo_Sanguineo,Fator_RH,Nome_Aluno
 
+Nome_Aluno,Matricula -> Data_Nascimento,Grupo_Sanguineo,Fator_RH,Periodo,Turma
