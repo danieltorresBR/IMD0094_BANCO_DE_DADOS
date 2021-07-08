@@ -1,0 +1,1 @@
+select distinct employee.fname, employee.minit, employee.lname from company.employee, company.department where (select department.dnumber from company.department, company.employee where employee.ssn = department.mgr_ssn AND employee.fname = 'Franklin') = employee.dno AND employee.fname <> 'Franklin';

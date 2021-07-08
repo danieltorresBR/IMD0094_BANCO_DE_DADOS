@@ -1,0 +1,1 @@
+SELECT employee.fname, employee.minit, employee.lname FROM company.employee where employee.ssn not in (select works_on.essn from company.works_on);

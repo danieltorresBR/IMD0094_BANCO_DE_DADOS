@@ -1,0 +1,1 @@
+select employee.fname, employee.minit, employee.lname from company.employee where employee.ssn in (select works_on.essn from company.works_on where works_on.pno in (select project.pnumber from company.project));
